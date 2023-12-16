@@ -6,7 +6,7 @@
   🔭I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.   
 
 <br/>
-<div align="center"><img src="https://samugem-github-readme-stats.vercel.app/api/top-langs/?username=samugem&hide_border=true&layout=compact&exclude_repo=kino-html-css" align="center" /></div>  
+<div align="center"><img src="https://samugem-github-readme-stats.vercel.app/api/top-langs/?username=samugem&hide_border=true&layout=compact&exclude_repo=kino-html-css,react-projects" align="center" /></div>  
 
 
 ## My Skill Set  
